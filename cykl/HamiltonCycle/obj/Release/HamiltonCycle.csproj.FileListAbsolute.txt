@@ -1,0 +1,8 @@
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\bin\Release\HamiltonCycle.exe
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\bin\Release\HamiltonCycle.pdb
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\obj\Release\HamiltonCycle.exe
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\obj\Release\HamiltonCycle.pdb
+C:\Users\mpabin\Desktop\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\obj\Release\HamiltonCycle.exe
+C:\Users\mpabin\Desktop\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\obj\Release\HamiltonCycle.pdb
+C:\Users\mpabin\Desktop\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\bin\Release\HamiltonCycle.exe
+C:\Users\mpabin\Desktop\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\bin\Release\HamiltonCycle.pdb

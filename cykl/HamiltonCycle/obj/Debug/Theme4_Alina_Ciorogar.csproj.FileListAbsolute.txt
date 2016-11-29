@@ -1,0 +1,5 @@
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\obj\Debug\HamiltonCycle.exe
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\obj\Debug\HamiltonCycle.pdb
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\bin\Debug\HamiltonCycle.exe
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\bin\Debug\HamiltonCycle.pdb
+C:\Projekty\Cykl Hamiltona\HamiltonCycle\HamiltonCycle\obj\Debug\HamiltonCycle.csprojResolveAssemblyReference.cache
